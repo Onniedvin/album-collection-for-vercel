@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "636906d66f24040e565b42e1",
+        "title": "testi1",
+        "artist": "test1",
+        "year": 2000,
+        "tracks": 1
+    },
+    {
+        "_id": "636906d66f24040e565b42e2",
+        "title": "testi2",
+        "artist": "testi2",
+        "year": 1900,
+        "tracks": 2
+    },
+    {
+        "_id": "636906d66f24040e565b42e3",
+        "title": "testi3",
+        "artist": "testi3",
+        "year": 2000,
+        "tracks": 3
+    },
+    {
+        "_id": "636906d66f24040e565b42e4",
+        "title": "testi4",
+        "artist": "testi4",
+        "year": 2000,
+        "tracks": 4
+    }
+]
